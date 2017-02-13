@@ -84,7 +84,7 @@ public class LearnHostman {
         // место локации команды
         bCrew.setLocation("BAZA");
         // System.out.println(bCrew.getId() + "|" + bCrew.getName() + "|" + bCrew.getLocation() + "|" + bCrew.getDateCreate());
-
+ 
         //создаём Брейкеров
         bCrew.addBBoy(new BreakBoy("Xoxol"));
         bCrew.addBBoy(new BreakBoy("baske"));
